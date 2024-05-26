@@ -3,7 +3,7 @@
 </div>
 <img src="[URL de tu imagen de portada]" alt="Imagen de portada">
 
-[![GitHub followers](https://img.shields.io/github/followers/[tu-usuario]?style=social)](https://github.com/[tu-usuario])
+[![GitHub followers](https://img.shields.io/github/followers/GabrielCarrilloF?style=social)](https://github.com/GabrielCarrillof)
 
 ## Sobre mí
 
