@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Gabriel Carrillo 👋</h1>
 </div>
-<img src="[URL de tu imagen de portada]" alt="Imagen de portada">
+<img src="Miniatura de YouTube Tutorial Aprender a programar Atrevido Tecnológico .png" alt="Imagen de portada">
 
 [![GitHub followers](https://img.shields.io/github/followers/GabrielCarrilloF?style=social)](https://github.com/GabrielCarrillof)
 
