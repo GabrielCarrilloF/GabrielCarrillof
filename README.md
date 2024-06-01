@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/GabrielCarrilloF?style=social)](https://github.com/GabrielCarrillof)
 
 ## Sobre mí
-
+- Estudiente de Ingenieria de sistemas
 - 💼 Buen trabajador en equipo
 - 💡 Innovador y creativo
 - 🕒 Dedicado y comprometido con los proyectos
