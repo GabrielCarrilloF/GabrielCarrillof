@@ -52,37 +52,19 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto 1</h3>
+<h3 align="center">Ethos</h3>
 <div align="center">
-<a href="[URL del proyecto 1]" target="_blank"><img src="[URL de la imagen del proyecto 1]" width="400" alt="Proyecto 1"></a>
+<a href="" target="_blank"><img src="https://github.com/GabrielCarrilloF/Ethos/blob/main/imagenes/iconos/Logo-Ethos.ico" width="400" alt="Proyecto 1"></a>
 <p>
-<a href="[URL del repositorio del proyecto 1]" target="_blank">
+<a href="https://github.com/GabrielCarrilloF/Ethos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="[URL del video del proyecto 1]" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Descripción breve del proyecto 1.</p>
+<p>Gestor de actividad </p>
 </div>
 </td>
-
-<td width="50%">
-<h3 align="center">Proyecto 2</h3>
-<div align="center">
-<a href="[URL del proyecto 2]" target="_blank"><img src="[URL de la imagen del proyecto 2]" width="400" alt="Proyecto 2"></a>
-<p>
-<a href="[URL del repositorio del proyecto 2]" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="[URL del video del proyecto 2]" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-<p>Descripción breve del proyecto 2.</p>
-</div>
-</td>
-</tr>
 </table>
 
 ### ⚙️ &nbsp;GitHub Analytics
