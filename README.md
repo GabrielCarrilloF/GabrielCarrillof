@@ -132,7 +132,7 @@
 
 
 <td width="50%">
-<h3 align="center">Arway</h3>
+<h3 align="center">Airway</h3>
 <div align="center">
 <a href="" target="_blank"><img src="https://github.com/GabrielCarrilloF/AirWay---System/blob/main/Vew/image/AirwayLogo.webp" width="400" alt="Proyecto 1"></a>
 <p>
