@@ -114,35 +114,6 @@
 </p>
 
 
-## Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Ethos</h3>
-<div align="center">
-<a href="" target="_blank"><img src="https://github.com/GabrielCarrilloF/Ethos/blob/main/imagenes/iconos/Logo-Ethos.ico" width="400" alt="Proyecto 1"></a>
-<p>
-<a href="https://github.com/GabrielCarrilloF/Ethos" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</p>
-<p>Gestor de actividad </p>
-</div>
-</td>
-
-
-<td width="50%">
-<h3 align="center">Airway</h3>
-<div align="center">
-<a href="" target="_blank"><img src="https://github.com/GabrielCarrilloF/AirWay---System/blob/main/Vew/image/AirwayLogo.webp" width="400" alt="Proyecto 1"></a>
-<p>
-<a href="https://github.com/GabrielCarrilloF/AirWay---System.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</p>
-<p>Gestor de transportes y público y hospedaje </p>
-</div>
-</td>
-</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
